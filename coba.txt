@@ -1,2 +1,1 @@
-coba
-tambah coba line 2
+COBA
